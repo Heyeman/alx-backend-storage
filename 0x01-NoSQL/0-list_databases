@@ -1,1 +1,2 @@
-show dbs
+//comment
+mongo show dbs
