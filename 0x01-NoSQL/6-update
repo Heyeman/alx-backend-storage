@@ -1,0 +1,2 @@
+//updates
+db.school.update({"name":"Holberton school"}, )
