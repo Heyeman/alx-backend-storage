@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x02. Redis basic
 
   
@@ -240,3 +241,6 @@ Tip: Use  `http://slowwly.robertomurray.co.uk`  to simulate a slow response and 
 
 Bonus: implement this use case with decorators.
 
+=======
+readme
+>>>>>>> d2f953f7b86ecc26db9546141d5a0e9d90bc9b44
